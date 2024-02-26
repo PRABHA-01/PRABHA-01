@@ -1,5 +1,7 @@
+//First program in c
+
 #include <stdio,h>
 int main()
-{
 printf("this is my first file of repository Prabha-01 on github);
+printf("this is first editing in my first file);
 }
